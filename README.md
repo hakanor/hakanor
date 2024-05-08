@@ -15,12 +15,12 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://apps.apple.com/tr/developer/hakan-or/id1738837202" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo" 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/App_Store_%28iOS%29.svg" height="40" alt="apple logo" 
        />
   </a>
-    <a href="https://medium.com/@hakanor" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"
-     />
+<a href="https://medium.com/@hakanor" target="_blank">
+    <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*psYl0y9DUzZWtHzFJLIvTw.png" height="40" alt="medium logo" style="border-radius: 6px;">
+</a>
   </a>
 </div>
 
